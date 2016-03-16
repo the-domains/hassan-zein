@@ -1,0 +1,28 @@
+name: Hassan Zein
+favicon: null
+layout_spectrum: 0.697621064260602
+typography_spectrum: 0.03904203721322119
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9385821260511875
+  lightness: 0.393856568261981
+  saturation: 0.2764334718231112
+  rhythmicContrast: 0.10920907254330814
+purpose: []
