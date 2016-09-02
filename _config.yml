@@ -1,19 +1,4 @@
-name: Hassan Zein
-favicon: null
-layout_spectrum: 0.697621064260602
 typography_spectrum: 0.03904203721322119
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,24 @@ color:
   lightness: 0.393856568261981
   saturation: 0.2764334718231112
   rhythmicContrast: 0.10920907254330814
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.697621064260602
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Hassan
+  email: info@hassanzein.com
+  url: www.hassanzein.com
+name: Hassan Zein
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Helping you become your true YOU
 purpose: []
